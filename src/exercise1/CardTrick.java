@@ -8,6 +8,7 @@ package exercise1;
  * @author dancye
  * @author Paul Bonenfant Jan 25, 2022 
  */
+*/fetch and merge
 public class CardTrick {
     
     public static void main(String[] args) {
